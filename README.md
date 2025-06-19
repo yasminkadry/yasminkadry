@@ -11,11 +11,13 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m diving deep into **Machine Learning, NLP, and Deep Learning, RAG, RPA, Agentic_AI**
+- 🌱 I’m diving deep into **Machine Learning, NLP, Deep Learning, RAG, RPA, and Agentic AI**
 - 💻 I'm combining **AI + Front-End** to create smart, user-centric experiences
 - 💬 Ask me about **Python, ML, DL, CrewAI, RPA, RAG, AI pipelines**
 - 📫 Reach me at: **yasminkadry6720@gmail.com**
+- 🌐 You can also visit my portfolio: [**yasminkadry.github.io**](https://yasminkadry.github.io)
 - ⚡ Fun fact: I love building intelligent systems with beautiful interfaces 🤖✨
+
 
 ---
 
