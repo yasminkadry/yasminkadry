@@ -11,9 +11,9 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m diving deep into **Machine Learning, NLP, and Deep Learning**
+- 🌱 I’m diving deep into **Machine Learning, NLP, and Deep Learning, RAG, RPA, Agentic_AI**
 - 💻 I'm combining **AI + Front-End** to create smart, user-centric experiences
-- 💬 Ask me about **Python, ML, AI pipelines, or Angular**
+- 💬 Ask me about **Python, ML, DL, CrewAI, RPA, RAG, AI pipelines**
 - 📫 Reach me at: **yasminkadry6720@gmail.com**
 - ⚡ Fun fact: I love building intelligent systems with beautiful interfaces 🤖✨
 
@@ -31,14 +31,44 @@
 
 ---
 
-### 💡 Projects I'm Proud Of
+## 💡 Projects I'm Proud Of
 
-- 👗 [**AI Modest Fashion Stylist**](https://github.com/yasminkadry/AI-Modest-Fashion-Stylist) – AI-powered outfit recommendation system for modest fashion  
-- 💳 [**CreditScore_ANN**](https://github.com/yasminkadry/CreditScore_ANN) – Artificial Neural Network to predict credit risk  
-- 🔍 [**CIFAR-10 Classification with CNN**](https://github.com/yasminkadry/Cifer10-mnist-datasets-with-CNN) – Image classification using Convolutional Neural Networks  
-- 🧠 [**Unet Classification**](https://github.com/yasminkadry/Unet-classification-) – Image segmentation using U-Net architecture  
-- 🔢 [**Clustering Project**](https://github.com/yasminkadry/Clustering_project) – Unsupervised learning for pattern discovery in data  
-- 🤒 [**Obesity Risk Prediction**](https://github.com/MennatullahTarek/Multi-Class-Prediction-of-Obesity-Risk) – Multi-class classification model for predicting obesity categories  
+### 🧠 Natural Language Processing (NLP)
+
+- 🎞️ [**YouTube Script Agentic App**](https://github.com/yasminkadry/Youtube_Script_agents)  
+  AI-powered tool using CrewAI + Gemini to extract, summarize, and transform YouTube video transcripts via natural language instructions.
+
+- 🧠 [**Smart Recruiter Assistant (RAG-based)**](https://github.com/yasminkadry/Smart-Recruiter-Assistant-RAG-based)  
+  RAG-based application that uses LLMs to analyze resumes and generate structured recruiter insights.
+
+---
+
+### 🤖 Machine Learning (ML)
+
+- 💳 [**CreditScore_ANN**](https://github.com/yasminkadry/CreditScore_ANN)  
+  Predicts creditworthiness using supervised learning and an artificial neural network on tabular financial data.
+
+- 🔢 [**Clustering Project**](https://github.com/yasminkadry/Clustering_project)  
+  Unsupervised machine learning to detect hidden patterns and groupings in datasets.
+
+- 🤒 [**Obesity Risk Prediction**](https://github.com/MennatullahTarek/Multi-Class-Prediction-of-Obesity-Risk)  
+  Multi-class classification model predicting obesity risk categories from user health data.
+
+---
+
+### 🧬 Deep Learning (DL)
+
+- 🔍 [**CIFAR-10 Classification with CNN**](https://github.com/yasminkadry/Cifer10-mnist-datasets-with-CNN)  
+  Convolutional Neural Network (CNN) used for image classification on CIFAR-10 and MNIST datasets.
+
+- 🧠 [**U-Net Classification**](https://github.com/yasminkadry/Unet-classification-)  
+  Image segmentation project using U-Net deep learning architecture.
+
+- 🌦️ [**Weather Image Classification**](https://github.com/yasminkadry/weather-classification)  
+  CNN-based model for classifying different weather conditions from images.
+
+---
+
 
 ---
 
